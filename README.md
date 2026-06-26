@@ -16,10 +16,6 @@ https://6a3e55a61fa64107ec38a95a--tubular-snickerdoodle-a12b7d.netlify.app
 
 https://drive.google.com/drive/u/0/folders/1_dCvRTvYxkG3LC7X4BSdbVZx02LDGole
 
-**GitHub Repository**
-
-https://github.com/aymn10/neuralops-landing
-
 ---
 
 # Project Overview
